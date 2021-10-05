@@ -25,6 +25,10 @@
     Graph comparison with numpy methods.
     <br />
     <br />
+    
+    ![graph](https://user-images.githubusercontent.com/49699418/136109005-5048c1a5-849a-4a4f-a20d-8954bb1161a2.png)
+
+    
  
   </p>
 </div>
