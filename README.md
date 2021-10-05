@@ -39,7 +39,7 @@
 
 
 
-> Project Link: [https://github.com/PhantHive/qr-decomposition](:https://github.com/PhantHive/qr-decomposition/)
+> Project Link: [https://github.com/PhantHive/qr-decomposition](https://github.com/PhantHive/qr-decomposition/)
 
 
 
