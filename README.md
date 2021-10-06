@@ -28,7 +28,8 @@
  
   </p>
     
-  ![graph](https://user-images.githubusercontent.com/49699418/136109459-260c7277-1159-47d0-8748-462a7d6419bd.png)
+![image](https://user-images.githubusercontent.com/49699418/136213855-1acc3f6a-e013-4d5b-88bf-ba4c2ffe7c04.png)
+
 </div>
 
 
