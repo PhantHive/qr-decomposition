@@ -49,7 +49,7 @@
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-> QR decomposition learnt at IPSA Paris (Linear Algebra course).
+> QR decomposition learnt at IPSA Paris.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
